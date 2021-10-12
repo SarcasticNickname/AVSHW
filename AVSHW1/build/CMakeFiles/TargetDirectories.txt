@@ -1,0 +1,3 @@
+/root/AVSHW1/build/CMakeFiles/rebuild_cache.dir
+/root/AVSHW1/build/CMakeFiles/task01.dir
+/root/AVSHW1/build/CMakeFiles/edit_cache.dir
