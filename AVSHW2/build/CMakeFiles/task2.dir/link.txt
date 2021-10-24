@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/task2.dir/triangular.cpp.o CMakeFiles/task2.dir/diagonal.cpp.o CMakeFiles/task2.dir/square.cpp.o CMakeFiles/task2.dir/matrix.cpp.o CMakeFiles/task2.dir/container.cpp.o CMakeFiles/task2.dir/main.cpp.o -o ../bin/task2 
