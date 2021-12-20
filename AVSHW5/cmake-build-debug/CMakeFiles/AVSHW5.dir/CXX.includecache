@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/derel/CLionProjects/AVSHW5/decypherkit.cpp
+cmath
+-
+iostream
+-
+thread
+-
+mutex
+-
+decypherkit.h
+/mnt/c/Users/derel/CLionProjects/AVSHW5/decypherkit.h
+
+/mnt/c/Users/derel/CLionProjects/AVSHW5/decypherkit.h
+map
+-
+string
+-
+
+/mnt/c/Users/derel/CLionProjects/AVSHW5/main.cpp
+userinterface.h
+/mnt/c/Users/derel/CLionProjects/AVSHW5/userinterface.h
+
+/mnt/c/Users/derel/CLionProjects/AVSHW5/userinterface.cpp
+iostream
+-
+userinterface.h
+/mnt/c/Users/derel/CLionProjects/AVSHW5/userinterface.h
+decypherkit.h
+/mnt/c/Users/derel/CLionProjects/AVSHW5/decypherkit.h
+
+/mnt/c/Users/derel/CLionProjects/AVSHW5/userinterface.h
+map
+-
+iostream
+-
+string
+-
+

@@ -1,0 +1,3 @@
+/mnt/c/Users/derel/CLionProjects/AVSHW5/cmake-build-debug/CMakeFiles/AVSHW5.dir
+/mnt/c/Users/derel/CLionProjects/AVSHW5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/derel/CLionProjects/AVSHW5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

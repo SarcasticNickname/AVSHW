@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g CMakeFiles/AVSHW5.dir/main.cpp.o CMakeFiles/AVSHW5.dir/decypherkit.cpp.o CMakeFiles/AVSHW5.dir/userinterface.cpp.o -o AVSHW5 
